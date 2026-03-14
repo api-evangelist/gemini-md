@@ -1,0 +1,14 @@
+name: GEMINI.md
+description: Configuration file for Google Gemini CLI providing project context, coding
+  standards, and development instructions for AI-assisted coding workflows.
+url: ''
+tags:
+- AI Agents
+- Gemini
+- Developer Workflow
+- Coding Standards
+- AI Copilot
+created: '2025'
+modified: '2025'
+apis: []
+common: []
