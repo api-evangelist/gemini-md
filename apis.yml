@@ -1,14 +1,24 @@
+aid: gemini-md
 name: GEMINI.md
 description: Configuration file for Google Gemini CLI providing project context, coding
   standards, and development instructions for AI-assisted coding workflows.
-url: ''
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/gemini-md/refs/heads/main/apis.yml
+specificationVersion: '0.19'
 tags:
-- AI Agents
-- Gemini
-- Developer Workflow
-- Coding Standards
-- AI Copilot
-created: '2025'
-modified: '2025'
+  - AI Agents
+  - Gemini
+  - Developer Workflow
+  - Coding Standards
+  - AI Copilot
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
