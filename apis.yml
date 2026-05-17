@@ -8,7 +8,7 @@ description: >-
   automatically from the working directory and parent directories, layering
   global, project, and subproject context. It mirrors similar agent context
   conventions like CLAUDE.md and AGENTS.md.
-type: Standard
+kind: standard
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 position: Consumer
