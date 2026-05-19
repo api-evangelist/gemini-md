@@ -13,7 +13,7 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 position: Consumer
 created: '2025-01-01'
-modified: '2026-04-28'
+modified: '2026-05-19'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gemini-md/refs/heads/main/apis.yml
 specificationVersion: '0.19'
@@ -39,6 +39,9 @@ common:
     url: https://github.com/google-gemini/gemini-cli
   - type: License
     url: https://github.com/google-gemini/gemini-cli/blob/main/LICENSE
+  - name: Agent Skills
+    url: https://github.com/google-gemini/gemini-skills
+    type: AgentSkill
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
