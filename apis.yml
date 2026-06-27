@@ -41,7 +41,7 @@ common:
     url: https://github.com/google-gemini/gemini-cli/blob/main/LICENSE
   - name: Agent Skills
     url: https://github.com/google-gemini/gemini-skills
-    type: AgentSkill
+    type: AgentSkills
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
