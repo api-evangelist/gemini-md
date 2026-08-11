@@ -40,6 +40,14 @@ tags:
   - Standard
 apis: []
 common:
+  - type: IssueTracker
+    url: https://github.com/google-gemini/gemini-cli/issues
+  - type: Releases
+    url: https://github.com/google-gemini/gemini-cli/releases
+  - type: SecurityPolicy
+    url: https://github.com/google-gemini/gemini-cli/blob/main/SECURITY.md
+  - type: ContributionGuide
+    url: https://github.com/google-gemini/gemini-cli/blob/main/CONTRIBUTING.md
   - type: Website
     url: https://google.github.io/gemini-cli/
   - type: Documentation
