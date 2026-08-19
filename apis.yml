@@ -27,7 +27,7 @@ created: '2025-01-01'
 modified: '2026-05-19'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/gemini-md/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - AI Agents
   - AI Copilot
