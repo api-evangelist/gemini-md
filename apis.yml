@@ -9,6 +9,17 @@ description: >-
   global, project, and subproject context. It mirrors similar agent context
   conventions like CLAUDE.md and AGENTS.md.
 kind: standard
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
