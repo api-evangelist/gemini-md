@@ -1,5 +1,6 @@
 aid: gemini-md
 name: GEMINI.md
+x-type: convention
 description: >-
   GEMINI.md is the project context file convention used by the Google Gemini
   CLI to provide project-specific instructions, coding standards, architectural
@@ -33,7 +34,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/gemini-md.png
 access: 3rd-Party
-position: Consumer
+position: Consuming
 created: '2025-01-01'
 modified: '2026-05-19'
 url: >-
